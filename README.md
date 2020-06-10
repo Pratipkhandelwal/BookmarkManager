@@ -2,6 +2,10 @@
 
 The deploy is done with [Frozen-Flask](https://pythonhosted.org/Frozen-Flask/) and [Netlify](https://www.netlify.com/).
 
+## Website Link
+
+[Bookmark-Manager](https://smartybookmark.netlify.app/).
+
 ## Development
 
 If you install new packages, remember to update `requirements.txt`:
